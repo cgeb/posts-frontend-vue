@@ -1,5 +1,3 @@
-# vuejs-composition-api
-
 ## Project setup
 ```
 yarn install
